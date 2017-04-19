@@ -1,4 +1,4 @@
-# hello-world
+# European Bicycle Platform
 My first lesson on Github.
 
 Overview
